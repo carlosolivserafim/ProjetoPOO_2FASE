@@ -1,9 +1,9 @@
-Projeto POO utilizando apenas JAVA.
+Projeto POO
 
-A aplicação se trata de um sistema para gestão de vendas de um
-material de construção, o mesmo permite o cadastro, edição e exclusão
-de produtos e serviços prestados pela loja e também um controle de
-vendas da mesma.
+A aplicação foi desenvolvida utilizando todos os aprendizados adquiridos com
+a disciplina de POO ao decorrer da 2° fase do curso de ADS na faculdade Senac Criciúma,
+foi desenvolvido uma aplicação para o controle de produtos cadastrados e seu estoque,
+também foi feito um sistema de vendas de produtos e de serviços prestados pela loja.
+Também é gerado relatórios de estoque e vendas.
 
-Desenvolvido ao concluir a disciplina de POO da segunda fase na faculdade
-SENAC CRICIÚMA.. 
+Foi utilizado apenas JAVA na versão 1.8.
